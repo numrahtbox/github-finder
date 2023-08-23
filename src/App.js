@@ -8,7 +8,6 @@ import About from './pages/About';
 import Home from './pages/Home';
 import NotFound from './pages/NotFound';
 import User from './pages/User';
-//this 
 //  this is new
 function App() {
   return (
